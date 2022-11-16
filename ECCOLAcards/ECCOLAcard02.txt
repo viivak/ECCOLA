@@ -1,0 +1,30 @@
+ECCOLA Card 
+#2 Explainability
+
+Theme: Transparency
+
+Motivation: If we cannot understand the reasons behind the actions of the AI, it is difficult to trust the system.
+
+What to Do: Ask yourself:
+
+i. Is explainability a goal for your system? If yes, how do you plan to ensure it?
+
+ii. How well can each decision of the system be understood by both developers and (end-)users?
+
+iii. Did you try to use the simplest and most interpretable model possible for the context? If not, why? 
+
+iv. Did you make trade-offs between explainability and accuracy? What kind of trade-offs and why?
+
+v. How familiar are you with your training or testing data? Can you change it when needed?
+
+vi. If you utilize third party components in the system, how well do you understand them?
+
+Practical Example: When interacting with a robot, users could ideally ask the robot “why did you do that?” and receive an understandable response. This would make it much easier for them to trust the system.
+
+
+
+cID 3203-20221114
+
+ECCOLA is based on scientific research.
+Vakkuri, V., Kemell, K. K., Jantunen, M., Halme, E., & Abrahamsson, P. (2021). ECCOLA—A method for implementing ethically aligned AI systems. Journal of Systems and Software, 182, 111067.
+

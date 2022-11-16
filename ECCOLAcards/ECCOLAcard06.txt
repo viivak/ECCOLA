@@ -1,0 +1,25 @@
+ECCOLA Card 
+#6 System Reliability  
+
+Theme: Transparency
+
+Motivation: Transparency makes ethical development possible in the first place. To make it ethical, we must understand how the system works and why it makes certain decisions.
+
+What to Do: Ask yourself:
+
+i. How do you test if the system fulfills its goals?
+
+ii. Have you tested the system comprehensively, including unlikely scenarios? Have the tests been documented?
+
+iii. When the system fails in a certain scenario, will you be able to tell why? Can you replicate the failure?
+
+iv. How do you assure the (end-)user of the system’s reliability?
+
+Practical Example: An autonomous coffee machine successfully brews coffee 8 times out 10. While this is a decent success rate, we are left wondering what happened on the 2 unsuccessful occasions and why. Errors are inevitable. Yet, in order to fix them, we must understand the causes behind them.
+
+
+cID 3602-20221114
+
+ECCOLA is based on scientific research.
+Vakkuri, V., Kemell, K. K., Jantunen, M., Halme, E., & Abrahamsson, P. (2021). ECCOLA—A method for implementing ethically aligned AI systems. Journal of Systems and Software, 182, 111067.
+

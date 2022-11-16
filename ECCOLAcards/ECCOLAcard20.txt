@@ -1,0 +1,29 @@
+ECCOLA Card 
+#20 Minimizing Negative Impacts 
+
+Theme: Accountability
+
+Motivation: Minimizing negative impacts of the system is financially important for any developer organization. Incidents are often costly.
+
+What to Do:
+
+i. First, consider…
+	i. Is your stakeholder analysis up-to-date (Card #0)?
+	ii. Have you discussed risks (Card #13)?
+	iii. Have you discussed auditability?
+	iv. Have you discussed redress issues?
+
+ii. Are the people involved with the development of the system also involved with it during its operational life? If not, they may not feel as accountable.
+
+iii. Are you aware of legal regulations of the system?
+
+iv. Can users of the system somehow report vulnerabilities, risks, and other issues in the system?
+
+v. With whom have you discussed accountability and other ethical issues related to the system, including grey areas?
+
+
+cID 9303-20221114
+
+ECCOLA is based on scientific research.
+Vakkuri, V., Kemell, K. K., Jantunen, M., Halme, E., & Abrahamsson, P. (2021). ECCOLA—A method for implementing ethically aligned AI systems. Journal of Systems and Software, 182, 111067.
+

@@ -1,0 +1,25 @@
+ECCOLA Card 
+#9 Access to Data 	
+
+Theme: Data
+
+Motivation: Aside from carefully planning what data you collect and how, it is also important to plan how it can or will be used and by whom.
+
+What to Do: Ask yourself:
+
+i. Who can access the users’ data, and under what circumstances? 
+
+ii. How do you ensure that the people who access the data: 1) have a valid reason to do so; and 2) adhere to the regulations and policies related to the data?
+
+iii. Do you keep logs of who accesses the data and when? Do the logs also explain why?
+
+iv. Do you use existing data governance frameworks or protocols? Does your organization have its own?
+
+Practical Example: Third parties you give access to the data can misuse it. A prominent example of this is the case of Cambridge Analytica and Facebook, in which data from Facebook was used questionably. Such incidents can also paint your organization in a bad light even if you were not the ones misusing the data.
+
+
+cID 4302-20221114
+
+ECCOLA is based on scientific research.
+Vakkuri, V., Kemell, K. K., Jantunen, M., Halme, E., & Abrahamsson, P. (2021). ECCOLA—A method for implementing ethically aligned AI systems. Journal of Systems and Software, 182, 111067.
+

@@ -1,0 +1,30 @@
+ECCOLA Card 
+#8 Data Quality
+
+Theme: Data
+
+Motivation: As AI systems are trained using data, the data used directly affects how the system operates. The nature, quality, and integrity of the data used have to align with the goals of the system.
+
+What to Do: Ask yourself:
+
+i. What are good or poor-quality data in the context of your system?
+
+ii. How do you evaluate the quality and integrity of your own data? Are there alternative ways?
+
+iii. If you utilize data from external sources, how do you control their quality?
+
+iv. Did you align your system with relevant standards (e.g., ISO, IEEE) or widely adopted protocols for daily data management and governance?
+
+v. How can you tell if your data sets have been compromised? E.g., by data pollution.
+
+vi. Who handles the data collection, storage, and use?
+
+Practical Example: In 2017, Amazon scrapped its recruitment AI because of data. They used past recruitment data to teach the AI. As they had mostly hired men, the AI learned to consider women undesirable based on the data.
+
+
+
+cID 4203-20221114
+
+ECCOLA is based on scientific research.
+Vakkuri, V., Kemell, K. K., Jantunen, M., Halme, E., & Abrahamsson, P. (2021). ECCOLA—A method for implementing ethically aligned AI systems. Journal of Systems and Software, 182, 111067.
+

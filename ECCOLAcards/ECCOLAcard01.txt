@@ -1,0 +1,25 @@
+ECCOLA Card 
+#1 Types of Transparency
+
+Theme: Transparency
+
+Motivation: When considering transparency, it is important to understand who you are being transparent towards, and what you are being transparent about.
+
+What to Do: Consider the following…
+
+i. Are you trying to understand something? (Internal transparency)
+
+ii. Are you trying to explain something? (External transparency)
+
+iii. Are you trying to understand or explain how the system works? (Transparency of algorithms and data)
+
+iv. Are you trying to understand or explain why the system was made the way it was? (Transparency of systems development)
+
+v. External stakeholders to consider, among others: (end-)users, safety certification agencies, accident investigators, lawyers or expert witnesses, and society at large for disruptive technologies
+
+
+cID 3103-20221114
+
+ECCOLA is based on scientific research.
+Vakkuri, V., Kemell, K. K., Jantunen, M., Halme, E., & Abrahamsson, P. (2021). ECCOLA—A method for implementing ethically aligned AI systems. Journal of Systems and Software, 182, 111067.
+

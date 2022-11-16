@@ -1,0 +1,24 @@
+ECCOLA Card 
+#5 Traceability  
+
+Theme: Transparency
+
+Motivation: Traceability supports explainability. It helps us understand why an AI system acts the way it does.
+
+What to Do: Document. Different types of documentation (code, project etc.) are simple ways of producing transparency.
+
+i. How have you documented the development of the system, both in terms of code and decision-making? How was the model built or the AI trained? 
+
+ii. How have you documented the testing and validation process in terms of data, scenarios, methods, etc. used?
+
+iii. How do you document the actions of the system? What about different actions in mostly similar scenarios (e.g., different user, same situation)
+
+Practical Example: Through fostering traceability, it will be easier to trace errors and their causes when they occur. Consequently, it will also be faster and potentially easier to start addressing the underlying issue. 
+
+
+
+cID 3503-20221114
+
+ECCOLA is based on scientific research.
+Vakkuri, V., Kemell, K. K., Jantunen, M., Halme, E., & Abrahamsson, P. (2021). ECCOLA—A method for implementing ethically aligned AI systems. Journal of Systems and Software, 182, 111067.
+

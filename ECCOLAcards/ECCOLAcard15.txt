@@ -1,0 +1,23 @@
+ECCOLA Card 
+#15 Stakeholder Participation 
+
+Theme: Fairness
+
+Motivation: As AI systems have notable impacts, their stakeholders are also numerous. Though the system affects these various holders in various ways, they are often not involved in the development. Yet, e.g., when using a decision-making system, its users have to trust the system while also being critical of it.
+
+What to Do: Check your stakeholder analysis (Card #0):
+
+i. Which stakeholders are involved in the development of the system in practice?
+
+ii. How are the different stakeholders of the system involved in the development of the system? If some of them aren’t, why?
+
+iii. How do you inform your external and internal stakeholders of the system’s development?
+
+Practical Example: Often, from a machine logic standpoint, people impacted by an AI system are only accounted for as objects for the system. For example, a medical system is developed for hospitals, used by doctors, but ultimately used on patients. Why not involve the patients, too?
+
+
+cID 7203-20221114
+
+ECCOLA is based on scientific research.
+Vakkuri, V., Kemell, K. K., Jantunen, M., Halme, E., & Abrahamsson, P. (2021). ECCOLA—A method for implementing ethically aligned AI systems. Journal of Systems and Software, 182, 111067.
+

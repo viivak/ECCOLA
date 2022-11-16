@@ -1,0 +1,23 @@
+ECCOLA Card 
+#4 Documenting Trade-offs 
+
+Theme: Transparency
+
+Motivation: Documenting trade-offs is an important part of transparency. Whenever making a decision, you choose one option over another. However, documenting why trade-offs were made and what the alternatives were is important. Such documentation can be used to better justify past decisions if needed. 
+
+What to Do: Ask yourself:
+
+i. Are specific interests and values present within the system? And can the potential trade-offs between these interests and values be identified and documented?
+
+ii. Who decides on such trade-offs (e.g., between two competing solutions) and how? 
+
+iii. If you made trade-off, did you ensure that the trade-off decision and reasoning behind it were documented?
+
+Practical Example: E.g., choosing between different machine learning approaches can be a trade-off between accuracy and explainability. Documenting trade-offs can improve your customer relationship, allowing you to better explain why certain decisions were made over others. Moreover, it can reduce the responsibility placed on the individual developer(s) from an ethical point of view.
+
+
+cID 3403-20221114
+
+ECCOLA is based on scientific research.
+Vakkuri, V., Kemell, K. K., Jantunen, M., Halme, E., & Abrahamsson, P. (2021). ECCOLA—A method for implementing ethically aligned AI systems. Journal of Systems and Software, 182, 111067.
+

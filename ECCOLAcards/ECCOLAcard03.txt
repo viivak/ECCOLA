@@ -1,0 +1,26 @@
+ECCOLA Card 
+#3 Communication
+
+Theme: Transparency
+
+Motivation: In practice, communication is a big part of being transparent with your stakeholders. Being transparent in communication can generate trust.
+
+What to Do: Ask yourself:
+
+i. What is the goal of the system? Why is this particular system deployed in this specific area? 
+
+ii. What do you communicate about the system to its users and end-users? Is it enough for them to understand how the system works?
+
+iii. If relevant to your system, do you somehow tell your (end-)users that they are interacting with an AI system and not with another human being?
+
+iv. Do you collect user feedback? How is it used to change/improve the system?
+
+v. Are communication and transparency towards other audiences, such as the general public, relevant?
+
+Practical Example: Clearly stating what data you collect and why can make your system more trustworthy. Compare this to a smartphone application that simply states it needs to access your camera and storage.
+
+cID 3303-20221114
+
+ECCOLA is based on scientific research.
+Vakkuri, V., Kemell, K. K., Jantunen, M., Halme, E., & Abrahamsson, P. (2021). ECCOLA—A method for implementing ethically aligned AI systems. Journal of Systems and Software, 182, 111067.
+

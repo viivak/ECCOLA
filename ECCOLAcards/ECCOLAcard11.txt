@@ -1,0 +1,23 @@
+ECCOLA Card 
+#11 Human Oversight
+
+Theme: Agency & Oversight
+
+Motivation: AI systems should support human decision-making. They should not undermine human autonomy by making decisions on behalf of humans. AI systems should be subject to human oversight.
+
+What to Do: Ask yourself:
+
+i.Who can control the system and how? In what situations?
+
+ii. What would be the appropriate level of human control for this particular system and its use cases?
+ 
+iii. Related to the Safety and Security cards: how do you detect and respond if something goes wrong? Does the system then stop entirely, partially, or would control be delegated to a human? Why?
+
+Practical Example: Assuming control is especially related to cyber-physical systems such as drones or other vehicles. For purely digital systems, the focus should be on supporting human decision-making instead of directing it.
+
+
+cID 5202-20221114
+
+ECCOLA is based on scientific research.
+Vakkuri, V., Kemell, K. K., Jantunen, M., Halme, E., & Abrahamsson, P. (2021). ECCOLA—A method for implementing ethically aligned AI systems. Journal of Systems and Software, 182, 111067.
+

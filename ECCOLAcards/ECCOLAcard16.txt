@@ -1,0 +1,23 @@
+ECCOLA Card 
+#16 Environmental Impact
+
+Theme: Wellbeing
+
+Motivation: Past the general well being implications, ecological consciousness is a current trend. Being ecological can be a selling point for your organization.
+
+What to Do: Ask yourself:
+
+i. Did you assess the environmental impact of the system’s development, deployment, and use? E.g., the type of energy used by the data centers. 
+
+ii. Did you consider the environmental impact when selecting specific technical solutions? 
+
+iii. Did you ensure measures to reduce the environmental impact of your system’s life cycle? 
+
+Practical Example: If you are hosting on a third-party cloud, try to ascertain the sustainability of the service provider’s offerings. If you are using hardware, are you processing the data in each of your own devices, or are you processing it in the cloud? This can also be a system safety question (see Card #13).
+
+
+cID 8102-20221114
+
+ECCOLA is based on scientific research.
+Vakkuri, V., Kemell, K. K., Jantunen, M., Halme, E., & Abrahamsson, P. (2021). ECCOLA—A method for implementing ethically aligned AI systems. Journal of Systems and Software, 182, 111067.
+

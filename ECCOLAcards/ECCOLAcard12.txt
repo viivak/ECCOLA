@@ -1,0 +1,25 @@
+ECCOLA Card 
+#12 System Security
+
+Theme: Safety & Security
+
+Motivation: While cybersecurity is important in any system, AI systems present new security challenges. Cyber-physical systems can even cause fatalities in the hands of malicious actors.
+
+What to Do: Ask yourself:
+
+i. Did you assess potential forms of attacks to which the system could be vulnerable? Did you consider ones that are unique or more relevant to AI systems?
+
+ii. Did you consider different types of vulnerabilities, such as data pollution and physical infrastructure? 
+
+iii. Have you verified how your system behaves in unexpected situations and environments? 
+
+iv. Does your organization have cybersecurity personnel? Are they involved with the system and on what levels?
+
+Practical Example: The autonomous nature of AI systems enables new vectors of attack. For example, a white line drawn across a road can confuse a self-driving vehicle. The case of Microsoft’s Tay Twitter bot, who began to exhibit extreme views after being bombarded with such, is another example of a new type of attack.
+
+
+cID 6103-20221114
+
+ECCOLA is based on scientific research.
+Vakkuri, V., Kemell, K. K., Jantunen, M., Halme, E., & Abrahamsson, P. (2021). ECCOLA—A method for implementing ethically aligned AI systems. Journal of Systems and Software, 182, 111067.
+

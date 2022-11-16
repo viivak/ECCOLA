@@ -1,0 +1,27 @@
+ECCOLA Card 
+#7 Privacy and Data
+
+Theme: Data
+
+Motivation: Privacy is a rising trend, particularly in the wake of various recent data misuse scandals. People are now increasingly conscious about handing out personal data. Similarly, regulations such as the General Data Protection Regulation (GDPR) now affect data handling.
+
+What to Do: Ask yourself:
+
+i. What data are used by the system?
+
+ii. Does the system use or collect personal data? If yes, why? How is the personal data used?
+
+iii. Do you clearly inform your (end-)users about any personal data collection? E.g., ask for consent, provide an opportunity to revoke it, etc.
+
+iv. Have you taken measures to enhance (end-user) privacy, such as encryption or anonymization? 
+
+v. Who makes the decisions regarding data use and collection? Do you have organizational policies for it?
+
+Practical Example: Rather than collecting and selling data, appealing to privacy can also be profitable. Regulations are making it increasingly difficult to collect lots of personal data for profit. Privacy can be an attractive value proposition or an alternate selling point in today’s climate.
+
+
+cID 4103-20221114
+
+ECCOLA is based on scientific research.
+Vakkuri, V., Kemell, K. K., Jantunen, M., Halme, E., & Abrahamsson, P. (2021). ECCOLA—A method for implementing ethically aligned AI systems. Journal of Systems and Software, 182, 111067.
+

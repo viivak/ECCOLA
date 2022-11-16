@@ -1,0 +1,23 @@
+ECCOLA Card 
+#17 Societal Effects
+
+Theme: Wellbeing
+
+Motivation: The impacts of a system go beyond its userbase. A system may affect negatively even those who do not choose to use it.
+
+What to Do: Ask yourself:
+
+i. Did you assess the broader societal impact of the AI system’s use beyond the individual (end-)users? Consider stakeholders who might be indirectly affected by the system.
+
+ii. How will the systems affect society when in use?
+
+iii. What kinds of systemic effects could the system have?
+
+Practical Example: Surveillance technology utilizing facial recognition AI has long-reaching impacts. People may wish to avoid areas that utilize such surveillance, negatively affecting businesses in said area. The thought of such surveillance in and of itself is likely to be stressful.
+
+
+cID 8203-20221114
+
+ECCOLA is based on scientific research.
+Vakkuri, V., Kemell, K. K., Jantunen, M., Halme, E., & Abrahamsson, P. (2021). ECCOLA—A method for implementing ethically aligned AI systems. Journal of Systems and Software, 182, 111067.
+

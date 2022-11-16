@@ -1,0 +1,29 @@
+ECCOLA Card 
+#13 System Safety
+
+Theme: Safety & Security
+
+Motivation: AI systems exert notable influence on the physical world regardless of whether they are cyber-physical or not. Various risks and their consequences should be considered when thinking ahead to the operational life of the system.
+
+What to Do: Ask yourself:
+
+i. What kind of risks does the system involve? What kind of damage could it cause?
+
+ii. How do you measure and assess risks and safety? 
+
+iii. What fallback plans does your system have? Have they been tested?
+
+iv. In what conditions are the fallback plans triggered? Are they automatic or do they require human input?
+
+v. Is there a plan to mitigate or manage  technological errors, accidents, or malicious misuse? What if the systems provides wrong results, becomes unavailable, or provides societally unacceptable results?
+
+vi. What liability and consumer protection law may be applied in these situations. Have you taken them into account?
+
+Practical Example: AI systems can help automate various tasks. However, if a customer organization becomes reliant on your AI system to handle a portion of its operations, what happens if the AI ceases to function, even for a few hours? How can you mitigate or alleviate the impact?
+
+
+cID 6202-20221114
+
+ECCOLA is based on scientific research.
+Vakkuri, V., Kemell, K. K., Jantunen, M., Halme, E., & Abrahamsson, P. (2021). ECCOLA—A method for implementing ethically aligned AI systems. Journal of Systems and Software, 182, 111067.
+

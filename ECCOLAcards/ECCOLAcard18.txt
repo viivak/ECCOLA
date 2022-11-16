@@ -1,0 +1,25 @@
+ECCOLA Card 
+#18 Auditability
+
+Theme: Accountability
+
+Motivation: Regulations affecting AI and data may necessitate audits of systems in the future. Similarly, if the system causes damage, an audit might be requested. It is good to have mechanisms in place beforehand.
+
+What to Do: Ask yourself:
+
+i. Is the system auditable?
+
+ii. Can an audit be conducted independently?
+
+iii. Is the system available for inspection?
+
+iv. What mechanisms facilitate the system’s auditability? How are traceability and logging of the system’s processes and outcomes ensured? 
+
+Practical Example: In heavily regulated fields such as medicine, audits are typically required before a system can be utilized in the first place.
+
+
+cID 9102-20221114
+
+ECCOLA is based on scientific research.
+Vakkuri, V., Kemell, K. K., Jantunen, M., Halme, E., & Abrahamsson, P. (2021). ECCOLA—A method for implementing ethically aligned AI systems. Journal of Systems and Software, 182, 111067.
+

@@ -1,0 +1,24 @@
+ECCOLA Card 
+#19 Ability to s0ek compensation
+
+Theme: Accountability
+
+Motivation: Making sure people know they can be compensated in some way in the event something goes wrong with the system is important in generating trust. Such scenarios should be planned in advance, to what extent it is possible.
+
+What to Do: Ask yourself:
+
+i. What is your (developer organization) responsibility if the system causes damage or otherwise generates negative impact?
+
+ii. In the event of negative impact, can those affected seek redress?
+
+iii. How do you inform users and other third parties about opportunities for redress?
+
+Practical Example: AI systems can inconvenience users in unforeseen, unpredictable ways. Depending on the situation, the company may or may not be legally responsible for the inconvenience. Nonetheless, by offering a digital platform for seeking redress, your company can make a more trustworthy impression , while offering additional value to your users.
+
+
+
+cID 9202-20221114
+
+ECCOLA is based on scientific research.
+Vakkuri, V., Kemell, K. K., Jantunen, M., Halme, E., & Abrahamsson, P. (2021). ECCOLA—A method for implementing ethically aligned AI systems. Journal of Systems and Software, 182, 111067.
+

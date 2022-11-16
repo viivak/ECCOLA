@@ -1,0 +1,26 @@
+ECCOLA Card 
+#0 Stakeholder Analysis
+
+Theme: Analyze
+
+Motivation: In order to understand the big picture, it is important to first understand who the system can affect and how. Try to also think beyond the obvious, direct stakeholders such as your end-users.
+
+What to Do: Identify stakeholders.
+
+i. Who does the system affect, and how? 
+
+Stakeholders are not simply users, developers, and customers. 
+
+ii. How are the various stakeholders connected and related to each other?
+
+iii. Can these different stakeholders influence the development of the system? How?
+
+iv. Remember that a user is often an organization, and the end-user is an individual. Similarly, AI systems can treat people as objects for data collection.
+
+Practical Example: Autonomous cars don’t just affect their passengers. Anyone nearby is affected; some even adjust the way they drive. If at one point half of the traffic consists of self-driving cars, what are the societal impacts of such systems? E.g., regulations.
+
+cID 2103-20221114
+
+ECCOLA is based on scientific research.
+Vakkuri, V., Kemell, K. K., Jantunen, M., Halme, E., & Abrahamsson, P. (2021). ECCOLA—A method for implementing ethically aligned AI systems. Journal of Systems and Software, 182, 111067.
+

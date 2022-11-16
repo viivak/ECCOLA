@@ -1,0 +1,25 @@
+ECCOLA Card 
+#10 Human Agency
+
+Theme: Agency & Oversight
+
+Motivation: People interacting with or using a system should be able to understand it sufficiently. Users should be able to make informed decisions based on its suggestions, or to challenge its suggestions. AI systems should let humans make independent choices.
+
+What to Do: Ask yourself:
+
+i. Does the system interact with decisions by human actors, i.e., end users (e.g., recommending users actions or decisions, or presenting options)? 
+
+ii. Does the system communicate to its (end-)users that a decision, content or outcome is the result of an algorithmic decision? If yes, how much detail does it go into?
+
+iii. In the system’s use context, what tasks are done by the system and what tasks are done by humans?
+
+iv. Have you taken measures to prevent overconfidence or overreliance on the system?
+
+Practical Example: A medical system recommends a diagnosis. How does the system communicate to a doctor why it made a recommendation? How should the doctors know when to challenge the system? Does the system somehow change how patients and doctors interact?
+
+
+cID 5102-20221114
+
+ECCOLA is based on scientific research.
+Vakkuri, V., Kemell, K. K., Jantunen, M., Halme, E., & Abrahamsson, P. (2021). ECCOLA—A method for implementing ethically aligned AI systems. Journal of Systems and Software, 182, 111067.
+

@@ -1,0 +1,29 @@
+ECCOLA Card 
+#14 Accessibility
+
+Theme: Fairness
+
+Motivation: Technology can be discriminating in various ways. Given the enormous impact AI systems can have, ensuring equal access to their positive impacts is ethically important.
+
+What to Do: Ask yourself:
+
+i. Does the system consider a wide range of individual preferences and abilities? If not, why? 
+
+ii. Is the system usable by those with special needs or disabilities, those at risk of exclusion, or those using assistive technologies? 
+
+iii. Were people representing special interest groups involved in the development of the system?
+
+iv. How are all potential user audiences taken into account? 
+
+v. Is the team involved in building the system representative of your target user audience? Is it representative of the general population?
+
+vi. Did you assess whether there could be (groups of) people who might be disproportionately affected by the negative implications of the system?
+
+Practical Example: AI tends to benefit those who are already technologically capable, resulting in increased inequality. 
+
+
+cID 7103-20221114
+
+ECCOLA is based on scientific research.
+Vakkuri, V., Kemell, K. K., Jantunen, M., Halme, E., & Abrahamsson, P. (2021). ECCOLA—A method for implementing ethically aligned AI systems. Journal of Systems and Software, 182, 111067.
+
